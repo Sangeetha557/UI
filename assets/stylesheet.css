@@ -13,6 +13,17 @@ li{
  display:inline-block;
 margin-left: 10px;
 }
+input{
+  border-radius: 25px;
+  width: 250px;
+  height: 40px;
+}
+button{
+  border-radius: 25px;
+  width: 75px;
+  height: 40px;
+  background-color: lightcoral;
+}
 .h1,.p{
   font: 2px;
 }
@@ -23,7 +34,6 @@ border: 1px solid black;
 .header{
     padding: 10px;
     font-size: 20px;
-
 }
 .navg{
     padding: 10px;
@@ -100,6 +110,10 @@ ul.list1 li:hover ul.list2{
   min-height: 230px;
   margin-right: 25px;
   width: 250px;
+}
+.left>ul>li{
+  border: 1px solid #ddd;
+ 
 }
 
 .right {
