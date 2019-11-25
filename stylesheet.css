@@ -1,0 +1,131 @@
+.tb-margin {
+  border: solid #000000;
+  border-width: 1px 0;
+}
+.rl-margin {
+  border: solid #000000;
+  border-width: 0 1px;
+}
+ul{
+  overflow:hidden;
+}
+li{
+ display:inline-block;
+margin-left: 10px;
+}
+input{
+  border-radius: 25px;
+  width: 250px;
+  height: 40px;
+}
+button{
+  border-radius: 25px;
+  width: 75px;
+  height: 40px;
+  background-color: lightcoral;
+}
+.h1,.p{
+  font: 2px;
+}
+div{
+display: block;
+border: 1px solid black;
+}
+.header{
+    padding: 10px;
+    font-size: 20px;
+}
+.navg{
+    padding: 10px;
+    font-size: 20px;
+
+}
+.list,.left li:hover > a{
+    color:#be5b70;
+}
+
+.list .arrow {
+    font-size:11px;
+    line-height:0%;
+}
+
+
+.list > ul > li > a {
+    padding:10px 40px;
+    display:inline-block;
+    text-decoration: none;
+}
+
+.list2{
+            width:15%;
+            padding:0px;
+            position:absolute;
+            display: none;
+}
+
+.list2 li{
+                display:block;
+                font-size:16px;
+               
+}
+
+.list2 li a {
+                padding:10px 30px;
+                display:block;
+                text-decoration: none;
+              
+}
+
+ul.list1 li:hover ul.list2{
+     display: block;
+     position: relative;
+     }
+     .left a {
+      display: block;
+      color: black;
+      padding: 10px;
+      text-decoration: none;
+    }
+     .left {
+      margin: 0;
+      padding: 0;
+      width: 200px;
+      background-color: #f1f1f1;
+      height: 110%;
+    }
+
+.container{
+  position: relative;
+  width: 1125px;
+  height: 300px;
+  padding: 100px;
+}
+.leftnav li {
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+}
+.left {
+  float: left;
+  min-height: 230px;
+  margin-right: 25px;
+  width: 250px;
+}
+.left>ul>li{
+  border: 1px solid #ddd;
+ 
+}
+
+.right {
+  float: left;
+  border: 0ch;
+}
+.images{
+  display:inline-block;
+  padding: 50px;
+  width: 100%;
+  border: 0cm;   
+}
+
+
+
