@@ -123,16 +123,9 @@ ul.list1 li:hover ul.list2{
 .images{
   display:inline-block;
   padding: 50px;
-  width: 1317%;
+  width: 100%;
   border: 0cm;   
 }
-.images{
-  opacity: 1;
-  }
-.images:hover ul{
-  opacity: 2;
-}
-footer{
-  background-color: grey;
-}
+
+
 
