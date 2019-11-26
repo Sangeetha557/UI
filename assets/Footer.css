@@ -32,6 +32,8 @@ ul {
 .tile {
     text-align: center;
     background-color: grey;
+    border-radius:10px;
+    border:1px solid black;
 }
 
 
@@ -66,4 +68,3 @@ ul {
       color:pink;
   }
 
-  
