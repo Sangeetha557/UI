@@ -1,14 +1,19 @@
-Project
-https://www.templatemonster.com/demo/89014.html
+#Project
+https://www.templatemonster.com/demo/89014.html.
+
+
 •	Header (including single level dropdown)
 •	Header (responsive) + Footer including copyright content and social icons.
-•	Left Navigation + right side banner + below section +Tile section with hover effects
-Prerequisites
+•	Left Navigation + right side banner + below section +Tile section with hover effects.
+
+
+#Prerequisites
+
 •	Write Code without any framework (SCSS, bootstrap or jQuery)
 •	Ignore JavaScript part in the site (slider, animation, validation etc)
 •	For icons use “https://fontawesome.com/start”
 •	For dummy images use “https://placeholder.com/”.
-Setup Repo
+#Setup Repo
 •	In the upper-right corner of git page, use the drop-down menu, and select New repository.
 •	Type a short, memorable name for your repository. ...
 •	Optionally, add a description of your repository. ...
@@ -16,7 +21,7 @@ Setup Repo
 •	Select Initialize this repository with a README.
 •	Click Create repository.
 
-A list of my commonly used Git commands 
+#A list of my commonly used Git commands 
 
 •	git init: Initialize a local Git repository
 
@@ -47,7 +52,7 @@ A list of my commonly used Git commands
 •	git pull origin [branch name]: Pull changes from remote repository
 
 
-       Folder structure in GIT:
+       #Folder structure in GIT:
                          
                 |-- Assets
                                 |-- css
