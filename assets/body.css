@@ -1,0 +1,66 @@
+.container {
+  left: 0%;
+  top: 0%;
+  position: relative;
+  margin: 0%;
+}
+
+.container .text-block {
+  position: absolute;
+  background-color: #00a1e0;
+  color: white;
+  font-size: 2rem;
+  display: inline-block;
+  padding: 0.125rem 0.75rem 0.3125rem 11.875rem;
+  top: 10.625rem;
+  left: 0%;
+}
+
+.container2 {
+  left: 2.5rem;
+  top: 31.875rem;
+  border: 0.0625rem solid #fff;
+  position: absolute;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  float: left;
+}
+
+.container2 .bottom-left {
+  color: white;
+  position: absolute;
+  bottom: 28.125rem;
+  left: 1rem;
+  font-size: 1.875rem;
+}
+
+.container2 .central {
+  color: white;
+  position: absolute;
+  bottom: 27.5rem;
+  left: 28.75rem;
+  font-size: 1.875rem;
+}
+
+.container2 .right-corner {
+  position: absolute;
+  right: 0;
+  top: 0.125rem;
+}
+
+.container2 .right-corner .right {
+  color: white;
+  position: absolute;
+  bottom: 2.5rem;
+  left: 1.25rem;
+  font-size: 1.875rem;
+}
+
+.container2 .down {
+  color: white;
+  position: absolute;
+  bottom: 3.75rem;
+  left: 2.875rem;
+  font-size: 1.875rem;
+}
+/*# sourceMappingURL=body.css.map */
